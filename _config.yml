@@ -1,0 +1,16 @@
+# Site settings
+title: hwi
+description: 개발 공부중
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ssohwi.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Lee SoHwi
+user_description: Student
+user_title: Software Engineer
+email: hwi40785230@gmail.com
+# twitter_username: lorem_ipsum
+# github_username:  lorem_ipsum
+# gplus_username:  lorem_ipsum
+
+exclude: ['package.json', 'src' , 'node_modules']
